@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**LLemos1/LLemos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação e tecnologia, sempre aprendendo algo novo.
 
-Here are some ideas to get you started:
+### Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs" />
+
+### Redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lucaslemos7)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@2lzzz7)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aimhigh711.aimhigh711)
